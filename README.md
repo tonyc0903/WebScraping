@@ -1,5 +1,5 @@
-# WebScrapingFun
-Some trivial web scraping 
+# WebScraping
+Some trivial web scraping projects
 
 Newegg - scraped site for daily and tomorrow's deals
 
