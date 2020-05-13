@@ -39,7 +39,7 @@ def napa_wineries(url):
        website.append(link['href'])
 
     #we need to append an empty string at the end of the list because it scraped an additional winerie thats not part of the list. Have to do this so when putting the 
-    #info into pandas, it wont generate list size doesnt match error
+    # info into pandas, it wont generate list size doesnt match error
     website.append('')
     
     # use panda to organize the datas into columns when exporting to excel/csv
